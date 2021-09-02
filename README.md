@@ -1,1 +1,1 @@
-# Basic-Snake_Game-Python
+# Basic-Snake-Game-Python
